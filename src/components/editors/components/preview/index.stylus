@@ -1,0 +1,5 @@
+#MdPreview {
+    border: 1px solid rgb(29, 27, 161);
+    width: 40%;
+    height: 100%;
+}
