@@ -1,6 +1,8 @@
 #content {
     width: calc(100% - 200px);
     height: 100%;
+    position: relative;
     border: 1px solid blue;    
     display: flex;
+    justify-content: space-around;
 }
